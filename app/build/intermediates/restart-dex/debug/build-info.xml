@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="21"
+    density="420dpi"
+    format="7"
+    timestamp="7676171762487"
+    token="1965473276805799749" >
+
+    <task
+        name="javac"
+        duration="240" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="53" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+
+    <build timestamp="3378142691380" >
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="7622264384001" >
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_6a06d480a5a1eff0d3ad471b5c970b0c1429287a\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_2c64e2961a12f9db2670034956ada020dabe5fc8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e49dff2355e25bcc882304708f49100a3e23676\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_43d5a1696c6789d425dc90c6984a492aec4b3eab\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_0fe15b78013d3d4df9cc6e6a69cb2aa77ebe6ed9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_bd7a8b493380c0acd29150e44220b06cdac0b162\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_244a40ab2cbac3db513cc3b34b5ee308357347d2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_b54b24b642f5f777f1406869ceac2ecf183dd400\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3229342535e1b7d7f384a07976134dfed4d629f2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_99eb0a939f9ccc00dca17332f1515c415f46d1d7\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="7676171762487" >
+        <artifact
+            location="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.3.0_bd7a8b493380c0acd29150e44220b06cdac0b162.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.1.0_43d5a1696c6789d425dc90c6984a492aec4b3eab.jar" />
+    </item>
+    <item
+        jar="H:\Soft\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_0fe15b78013d3d4df9cc6e6a69cb2aa77ebe6ed9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.3.0_b54b24b642f5f777f1406869ceac2ecf183dd400.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.3.0_244a40ab2cbac3db513cc3b34b5ee308357347d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.1.0_2c64e2961a12f9db2670034956ada020dabe5fc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_6a06d480a5a1eff0d3ad471b5c970b0c1429287a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\Jura\AndroidStudioProjects\MyApplication\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_99eb0a939f9ccc00dca17332f1515c415f46d1d7.jar" />
+    </item>
+
+</items>
